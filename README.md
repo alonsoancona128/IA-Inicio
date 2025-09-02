@@ -13,7 +13,7 @@ este archivo contiene una hoja de trucos para programar en markdown
 
 *   Elemento de la lista
 *   Elemento de la lista
-
+*   El Richard
 
   # Este proyecto es sobre mis practicas de inteligencia artifical y mis notas
 
